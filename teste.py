@@ -10,5 +10,5 @@ class Sexualidade():
         cls.sexo = nova_identificacao
         return nova_identificacao
     
-a = Sexualidade('Kaio')
+a = Sexualidade('Victoria')
 print(a.mudar_sexo('hetero'))
